@@ -1,0 +1,1 @@
+worker: python styx_security.py
